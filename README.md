@@ -1,4 +1,4 @@
-# lojinhaBugada
-Checklist básico de testes Mobile
+# Checklist básico de testes Mobile
+Lojinha Bugada
 
 Evidências de inconsistências encontradas na lojinha
